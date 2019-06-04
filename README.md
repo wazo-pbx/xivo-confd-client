@@ -1,8 +1,8 @@
-# XiVO confd client
-[![Build Status](https://jenkins.wazo.community/buildStatus/icon?job=xivo-confd-client)](https://jenkins.wazo.community/job/xivo-confd-client)
+# XiVO confd client (DEPRECATED)
 
-A python library for using [xivo-confd](https://github.com/wazo-pbx/xivo-confd)
+# Deprecated
 
+The xivo-confd-client is now deprecated in favor of the [wazo-confd-client](https://github.com/wazo-pbx/wazo-confd-client)
 
 # Installation
 
